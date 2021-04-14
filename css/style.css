@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: rgb(237, 241, 212);
+}
+.container{
+    max-width: 1000px;
+    background-color: #e4f9f5;
+    margin: 0 auto;
+    padding: 20px;
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid #e4f9f5;
+    border-radius: 50%;
+    float: left;
+
+}
+    
+.bio{
+    float:left;
+   padding: 30px;
+    
+}
+h1,h2,h3,h4,h5,h6{
+    color: #1199e1;
+}
+.contact{
+    float: right;
+    padding: 20px;
+   
+}
+.contact a{
+    color: #1199e1;
+    text-decoration: none;
+    font-weight: bold;
+}
+.contact a:hover{
+    color: #11999e;
+    text-decoration: underline #cf7053 2px;
+    transition: 0.5s;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border:solid 3px;
+    color: #000;
+    margin: 20px auto;
+    border-bottom: none;
+
+}
+.personal-section{
+
+}
+.containt{
+    margin: bottom 3px;
+
+}
+.left-div{
+    float: left;  
+    padding: 35px;
+    width: 30%;
+}
+.right-div{
+      padding: 35px;
+      width: 80%;
+}
+
+
+}
+.div-clear{
+    clear: both;
+}
+.common-hr{
+    border:solid 1px;
+    color: #000;
+    margin: 20px auto;
+    border-bottom: none;
+    width: 100%;
+}
+.college-link {
+    color: #1199e1;
+    text-decoration: none;
+
+}
+.college-link:hover{
+    color: #11999e;
+    text-decoration: underline #f83a00 2px;
+    transition: 0.5s;
+}
+.right-div-max{
+    float:left;
+}
+
+.board{
+    
+    color: #1199e1;
+    text-decoration: none;
+    margin-top: 10px ;
+
+}
+.board:hover{
+    color: #11999e;
+    text-decoration: underline #f83a00 2px;
+    transition: 0.5s;
+}
+.common-hr1{
+    color: rgb(4, 111, 160);
+    margin-bottom: 0%;
+}  
+ .footer{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.footer a{
+    color: #fff;
+    text-decoration: none;
+    margin: 20px ;
+}
+.footer p{
+    color: #fff;
+    margin-top: 20px;
+}
+.fb:hover{
+    color: rgb(4, 111, 160) ;
+    transition: 0.5s;
+}
+.you-tube:hover{
+    color: rgb(231, 62, 20);
+    transition: 0.5s;
+}
+
+
